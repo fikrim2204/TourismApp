@@ -1,0 +1,321 @@
+<resources>
+    <string name="app_name">TourismApp</string>
+    <string name="logo_app">Logo Aplikasi</string>
+    <string name="offline">Offline</string>
+    <string name="online">Online</string>
+    <string name="title">Title</string>
+    <string name="photo_of_the_place">photo of the place</string>
+    <string name="desc">desc</string>
+
+    <string-array name="data_photo">
+        <item>@drawable/arau1</item>
+        <item>@drawable/gunungpadang1</item>
+        <item>@drawable/imelda1</item>
+        <item>@drawable/kolamabg1</item>
+        <item>@drawable/mesjid_raya_sumbar</item>
+        <item>@drawable/mesjid_baiturrahman</item>
+        <item>@drawable/jembatan_siti_nurbaya</item>
+        <item>@drawable/museum_aditiya_warman</item>
+        <item>@drawable/pantaiairmanis</item>
+        <item>@drawable/pantai_padang</item>
+
+    </string-array>
+
+    <string-array name="title">
+        <item>Arau</item>
+        <item>Gunung Padang</item>
+        <item>Imelda</item>
+        <item>Kolam Abg</item>
+        <item>Mesjid Raya Sumbar</item>
+        <item>Mesjid Baiturrahman</item>
+        <item>Jembatan Siti Nurbaya</item>
+        <item>Museum Aditiya Warman</item>
+        <item>Pantai Air Manis</item>
+        <item>Pantai Padang</item>
+    </string-array>
+
+    <string-array name="location">
+        <item> Jl. Batang Arau No. 44-48, Pondok, Padang Barat, Kp. Pd., Kec. Padang Bar.,
+            Kota Padang, Sumatera Barat 25137</item>
+        <item>Bukit Gado-gado, Padang Sel., Kota Padang, Sumatera Barat</item>
+        <item>Limau Manis Selatan, Pauh, Padang City, West Sumatra 25157</item>
+        <item>Balai Gadang, Koto Tangah, Padang City, West Sumatra 25586</item>
+        <item>Jl. Batang Arau No. 44-48, Pondok, Padang Barat, Kp. Pd., Kec. Padang Bar.,
+            Kota Padang, Sumatera Barat 25137</item>
+        <item>Komplek Universitas Baiturrahmah, Jl. By Pass KM.15, Aie Pacah, Koto Tangah,
+
+            Aie Pacah, Kec. Koto Tangah, Kota Padang, Sumatera Barat 25586</item>
+        <item>Jl. Kp. Batu, Batang Arau, Padang Sel., Kota Padang, Sumatera Barat</item>
+        <item>Jalan Diponegoro No. 10, Belakang Tangsi, Padang Barat, Belakang Tangsi, Kec.
+            Padang Bar., Kota Padang, Sumatera Barat 25114</item>
+        <item>Pantai Air Manis, Kelurahan Aie Mani, Kecamatan Padang Selatan, Padang,
+            Provinsi Sumatera Barat.</item>
+        <item>Purus, West Padang, Padang City, West Sumatra 25115</item>
+    </string-array>
+
+    <string-array name="desc">
+        <item>Arau Mini Waterpark merupakan tempat wisata baru di Kota Padang.
+        Berlokasi di tepi Batang Arau, tepat di sebelah Bank Mandiri. Menyediakan berbagai
+        wahana air seperti ember pecah, Racer and Spiral Slides, juga Semi Olympic Swimming Pool.
+        Tersedia cafe dengan menu yg lezat, tempat penitipan barang berupa loker yang aman,
+        serta lapangan parkir yang luas.
+
+        Alamat
+        Batang Arau
+        Jl. Batang Arau No. 44-48, Pondok, Padang Barat, Kp. Pd., Padang Bar., Kota Padang, Sumatera Barat 25137
+        Padang
+        Sumatera Barat</item>
+        <item>Letaknya berada di seberang selatan dari muara Sungai Batang Arau dan termasuk dalam
+        wilayah Kecamatan Padang Selatan. Sebuah bukit kecil dengan ketinggian puncak sekitar
+        80 meter di atas permukaan laut. Masyarakat Kota Padang menamainya Gunung Padang karena
+        bukit ini bisa dikatakan tempat tertinggi di sekitar pusat kota yang terkenal dengan
+        kuliner rendang sebagai andalannya ini. Gunung Padang menyimpan kombinasi antara
+        panorama yang indah, legenda cinta, dan sepenggal sejarah masa pendudukan Jepang.
+
+        Untuk menjangkau kawasan wisata ini, kita bisa menyeberang melewati Jembatan Siti Nurbaya kemudian
+        mengambil jalan ke kiri. Jalan ini akan membawa kita ke pintu gerbang kawasan wisata
+        Gunung Padang.
+
+        Dari gerbang, kita bisa langsung membeli tiket ke loket yang dikelola oleh masyarakat setempat.
+        Jika memerlukan panduan guide, penjaga loket juga akan membantu mencarikannya untuk
+        kita. Keberadaan guide akan membantu memberikan informasi dan kisah-kisah seputar
+        Gunung Padang, sehingga kita bisa mendapatkan lebih dari sekedar panorama indah di
+        puncaknya.
+
+        Dari gerbang, kita akan menyusuri jalan setapak menanjak hingga ke puncak, kurang lebih 15- 30
+        menit perjalanan. Di sisi kiri jalan, beberapa kali akan kita temukan sisa bunker
+        peninggalan masa pendudukan Jepang.
+
+        Pada sisi kanan menjelang puncak, kita dapat menemukan sebuah celah batu dengan tangga menurun.
+        Menurut keterangan salah seorang pemandu, lorong ini adalah lokasi makam dari Siti
+        Nurbaya, tokoh utama dari sebuah kisah legendaris Minangkabau.
+
+        Siti Nurbaya dikenal umum sebagai sebuah karakter fiktif dalam roman klasik \'Siti Nurbaya: Kasih
+        Tak Sampai\' karya pujangga Marah Rusli. Roman yang kental dengan nuansa budaya
+        Minangkabau ini menceritakan kisah cinta Siti Nurbaya dan Samsul Bahri yang diputuskan
+        oleh takdir.
+
+        Samsul dipaksa pergi ke Batavia, sedangkan Siti Nurbaya akhirnya terpaksa menikah dengan Datuk
+        Meringgih karena jeratan hutang orang tua. Siti Nurbaya diceritakan tewas dibunuh
+        suaminya, sedangkan Meringgih sendiri akhirnya mati di tangan Samsul yang kemudian
+        juga terbunuh karena terluka parah dalam pertarungan.
+
+        Setelah melewati makam Siti Nurbaya, sampailah kita ke Puncak Bukit Padang. Kita akan disambut
+        sebuah taman luas yang diberi nama Taman Siti Nurbaya, sesuai dengan nama orang yang
+        dimakamkan di dekatnya. Taman ini dihiasi pepohonan rindang yang membuat suasana di
+        sekitarnya senantiasa teduh meski matahari sedang terik di tengah hari. Suasana ini
+        akan membawa pikiran kita untuk bersantai sejenak dan menikmati panorama indah di
+        sekelilingnya.
+
+        Taman Siti Nurbaya memang merangkum lengkap berbagai panorama indah yang ada di sekitarnya. Di
+        sebelah utara dan timur, terhampar pemandangan Kota Padang dan Jembatan Siti Nurbaya
+        dari kejauhan. Bergerak sedikit ke selatan, kita akan melihat hamparan Pantai Air Manis
+        beserta Pulau Pisang Kecil dan Pulau Pisang Besar. Sementara, di sisi barat, terhampar
+        bentangan luas dan birunya Samudera Hindia yang akan terlihat indah ketika hari
+        menjelang senja.</item>
+        <item>Tempat wisata ini memang dirancang untuk kolam renang anak-anak dengan seluncuran
+            favoritnya yang memiliki ketinggian 25 meter. Di tempat ini juga tersedia seluncuran
+            mini dengan ketinggian yang lebih rendah yaitu 15 meter sehingga anak-anak bisa memilih
+            sesuai keberaniannya.
+
+        Untuk kolam renang anak disediakan berbagai permaianan air yang seru sehingga liburan terasa
+            semakin  menyenangkan.</item>
+        <item>Kolam renang ini terletak di ketinggian 1000M di atas permukaan laut, kalau kita
+            berjalan dari By pass teluk Bayur sampai di persimpangan Lubuk Minturun ( lampu Merah )
+            kelok kiri , terus saja berjalan nanti kita akan di melewati tempat penjualan bunga,
+            sampai di sebuah persimpangan 3. yang kanan menuju Lokasi Manasik Haji di Miniatur
+            Makkah dan belok ke kiri menuju tempat pemandian Lubuk minturun atau menuju ke arah
+            jembatan / Lori. Sehabis lewat jembatan ada 2 simpang yang kiri ke kampung Buruk /
+            sungai Bangek dan yang belok kanan menuju kolam renang ABG atau jalan yang tembus ke
+            Solok.
+            jalannya agak pendakian landai tapi suasana alami akan terasa dengan ukuran jalan sekitaran
+            3M atau pas 2 Mobil selisih, tapi jalan saat saya ke sana cukup bagus karena sudah d
+            i aspal, karena dahulu saya ke sana jalan masih berbatuan.
+            sekitaran 1-2Km dari simpang bawah kita akan menemukan pintu masuk ke kolam renang Abg/
+            ada spanduknya.</item>
+        <item>Masjid Raya Sumatra Barat adalah masjid terbesar di Sumatra Barat yang terletak di
+            Jalan Khatib Sulaiman, Kecamatan Padang Utara, Kota Padang. Diawali peletakan batu
+            pertama pada 21 Desember 2007, pembangunannya tuntas pada 4 Januari 2019 dengan total
+            biaya sekitar Rp325–330 miliar, sebagian besar menggunakan dana APBD Sumatra Barat.
+            Pengerjaannya dilakukan secara bertahap karena keterbatasan anggaran dari provinsi.
+
+            Konstruksi masjid terdiri dari tiga lantai. Ruang utama yang dipergunakan sebagai ruang
+            salat terletak di lantai atas, memiliki teras yang melandai ke jalan. Denah masjid
+            berbentuk persegi yang melancip di empat penjurunya, mengingatkan bentuk bentangan kain
+            ketika empat kabilah suku Quraisy di Mekkah berbagi kehormatan memindahkan batu Hajar
+            Aswad. Bentuk sudut lancip sekaligus mewakili atap bergonjong pada rumah adat
+            Minangkabau rumah gadang.
+
+            Masjid Raya Sumatra Barat menurut rencana dibangun dengan biaya sedikitnya Rp500
+            miliar karena rancangannya didesain dengan konstruksi tahan gempa. Kerajaan Arab Saudi
+            pernah mengirim bantuan sekitar Rp500 miliar untuk pembangunan masjid, tetapi karena
+            terjadi gempa bumi pada 2009, peruntukan bantuan dialihkan oleh pemerintah pusat untuk
+            keperluan rehabilitasi dan rekonstruksi di Sumatra Barat. Pada 2015, Wakil Presiden RI
+            Jusuf Kalla meminta anggaran pembangunan dipangkas. Pemangkasan anggaran membuat
+            desain masjid berubah di tengah jalan, termasuk jumlah menara dari awalnya empat
+            menjadi satu.</item>
+        <item>Masjid Baiturrahmah mulai dibangun pada 2015 atas usulan dari anak pemilik Yayasan
+            Baiturrahmah.
+
+            Saat itu terdapat masjid Jabal Rahmah yang berada di bagian belakang kampus Universitas
+                        Baiturrahmah dengan daya tampung hanya 600 orang.
+
+            Karena setiap Jumat selalu membludak dan tidak tertampung akhirnya diusulkan untuk membangun
+                        masjid Baiturrahmah yang dibiayai sepenuhnya oleh keluarga pendiri Yayasan Pendidikan
+                        Baiturrahmah H Amran.
+
+            Kini karena keindahan arsitekturnya selain menjadi tempat ibadah, masjid ini juga menjadi salah
+            satu tujuan wisata religi untuk menikmati keelokan dan kemegahan bangunannya.</item>
+        <item>Jembatan Sitti Nurbaya adalah jembatan yang membentang sepanjang 156 meter di atas
+            sungai Batang Arau, Kota Padang, Sumatra Barat. Jembatan ini menghubungkan pusat kota
+            dengan Seberang Padang. Mengambil nama dari novel klasik Sitti Nurbaya karya Marah
+            Rusli, jembatan ini adalah akses menuju Gunung Padang, salah satu latar tempat Sitti
+            Nurbaya.
+
+            Dibangun sejak tahun 1995, pembangunan jembatan menghabiskan biaya Rp19,8 miliar dari anggaran
+            pemerintah daerah dan pemerintah pusat, dibantu oleh Asian Development Bank (ADB) dan
+            Overseas Economic Cooperation Fund (OECF). Penggunaannya diresmikan pada pertengahan
+            tahun 2002, ditandai dengan kehadiran pemeran drama televisi Sitti Nurbaya HIM Damsyik,
+            Novia Kolopaking, dan Gusti Randa.</item>
+        <item>Museum Adityawarman adalah museum budaya provinsi Sumatra Barat yang terletak di Kota
+            Padang. Museum ini diresmikan pada 16 Maret 1977 mengambil nama besar salah seorang
+            raja Malayapura pada abad ke-14, Adityawarman yang sezaman dengan Kerajaan Majapahit.
+             Museum ini memiliki julukan Taman Mini ala Sumatra Barat.
+
+            Konstruksi museum dikerjakan pada 1974. Bangunan museum berada di areal lebih kurang 2,6 hektare
+            dengan luas bangunan sekitar 2.854,8 meter persegi. Peresmian museum ditandai oleh
+            Menteri Pendidikan dan Kebudayaan Republik Indonesia Prof. Dr. Syarif Thayeb.
+            Selanjutnya, museum ini diberi nama Museum Negeri Adityawarman Sumatra Barat berdasarkan
+            Surat Keputusan Menteri No.093/0/1979 tanggal 28 Mei 1979.
+
+            Sebagai museum budaya, Museum Adityawarman menyimpan dan melestarikan benda-benda bersejarah,
+            seperti cagar budaya Minangkabau dan sekitarnya beserta beberapa cagar budaya nasional.
+            Salah satu di antaranya adalah bangunan yang berarsitektur Minang, bernama Rumah
+            Bagonjong atau Baanjuang.</item>
+        <item>Pantai Air Manis atau Pantai Aia Manih dalam bahasa Minang adalah pantai yang terletak
+            kurang lebih 10 km ke selatan dari pusat Kota Padang. Lokasinya Berada di belakang
+            Gunung Padang atau tepatnya di Kecamatan Padang Selatan, Kota Padang.</item>
+        <item>Pantai Padang atau populer dengan sebutan Taplau (singkatan dari tapi lauik, bahasa Minang yang artinya tepi laut) adalah sebuah pantai yang terletak di Kota Padang, Sumatra Barat. Pantai ini terletak pada kawasan padat perkotaan di Kecamatan Padang Barat, dan membentang dari daerah Purus hingga muara Batang Arau. Pantai ini berjarak kurang lebih 23 km dari Bandar Udara Internasional Minangkabau atau 30 menit perjalanan darat dengan mobil.</item>
+    </string-array>
+
+    <string name="title_activity_online">OnlineActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">TourismApp</string>
+    <string name="nav_header_subtitle">maulsana25@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_maps">Map</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_detail_online">DetailOnlineActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="lokasi">Lokasi :</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="satelite">Satelite</string>
+    <string name="hybrid">Hybrid</string>
+    <string name="terain">Terain</string>
+    <string name="normal">Normal</string>
+    <string name="long_snippet">Latitude : %1$.5f,Longitude : %2$.5f</string>
+    <string name="drop_pin">Drop Pin</string>
+    <string name="transaction">Transaksi</string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="destination">Destination</string>
+    <string name="select_destination">Pilih Destinasi</string>
+    <string name="submit">Submit</string>
+    <string name="report">Report</string>
+    <string name="date">Tanggal</string>
+</resources>

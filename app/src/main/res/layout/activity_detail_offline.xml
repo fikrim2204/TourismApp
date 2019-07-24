@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.offline.DetailOfflineActivity">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/cardview_horizontal_margin"
+        android:layout_marginTop="@dimen/cardview_vertical_margin"
+        android:layout_marginEnd="@dimen/cardview_horizontal_margin"
+        android:layout_marginBottom="@dimen/cardview_vertical_margin"
+        app:cardCornerRadius="4dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="16dp"
+            android:paddingBottom="16dp">
+
+            <ImageView
+                android:id="@+id/img_photo_off_detail"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:contentDescription="@string/photo_of_the_place"
+                android:scaleType="fitXY"
+                tools:src="@drawable/ic_launcher_background" />
+
+            <TextView
+                android:id="@+id/txt_location_off_detail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/img_photo_off_detail"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:paddingStart="8dp"
+                android:paddingEnd="8dp"
+                android:text="@string/lokasi"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txt_location_off_detail_extended"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/img_photo_off_detail"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:layout_toEndOf="@id/txt_location_off_detail"
+                android:paddingStart="8dp"
+                android:paddingEnd="@dimen/activity_horizontal_margin"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                tools:text="alamat" />
+
+            <TextView
+                android:id="@+id/txt_desc_off_detail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/txt_location_off_detail_extended"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:paddingStart="8dp"
+                android:paddingEnd="8dp"
+                android:text="@string/desc"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/btn_transaction_offline"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/txt_desc_off_detail"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="26dp"
+                android:layout_marginEnd="8dp"
+                android:background="@color/colorPrimary2"
+                android:text="@string/select_destination"
+                android:textSize="12sp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+</ScrollView>

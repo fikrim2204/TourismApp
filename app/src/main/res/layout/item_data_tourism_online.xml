@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/card_item_online"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginEnd="@dimen/cardview_horizontal_margin"
+    android:layout_marginStart="@dimen/cardview_horizontal_margin"
+    android:layout_marginTop="@dimen/cardview_vertical_margin"
+    android:layout_marginBottom="@dimen/cardview_vertical_margin"
+    app:cardCornerRadius="4dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/cardview_dark_background"
+        android:paddingBottom="8dp">
+
+        <ImageView
+            android:id="@+id/img_item_photo_online"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:contentDescription="@string/photo_of_the_place"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_launcher_background"/>
+
+        <TextView
+            android:id="@+id/txt_item_title_online"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            tools:text="@string/title"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            android:layout_centerHorizontal="true"
+            android:textColor="@color/cardview_light_background"
+            android:layout_below="@id/img_item_photo_online"/>
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

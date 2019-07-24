@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.offline.TransaksiOfflineActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_centerHorizontal="true"
+            android:padding="16dp"
+            android:text="@string/transaction"
+            android:textColor="@android:color/black"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/et_name_customer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:hint="@string/name"
+            android:padding="16dp"
+            android:layout_below="@id/textView"/>
+
+        <EditText
+            android:id="@+id/et_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:hint="@string/email"
+            android:padding="16dp"
+            android:inputType="textEmailAddress"
+            android:layout_below="@id/et_name_customer"/>
+
+        <EditText
+            android:id="@+id/et_destination"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:hint="@string/destination"
+            android:padding="16dp"
+            android:layout_below="@id/et_email"/>
+
+        <RelativeLayout
+            android:id="@+id/rl_tanggal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/et_destination">
+
+            <EditText
+                android:id="@+id/et_Tanggal"
+                android:layout_width="320dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:hint="@string/date"
+                android:padding="16dp"/>
+
+            <ImageButton
+                android:id="@+id/btn_input_date_transoff"
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="8dp"
+                android:padding="12dp"
+                android:layout_toEndOf="@id/et_Tanggal"
+                android:background="@color/colorPrimary2"
+                android:src="@drawable/ic_date_picker_black_24dp"
+                android:layout_marginBottom="16dp"
+                android:textStyle="bold"/>
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/btn_submit_transaction"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="8dp"
+            android:background="@color/colorPrimary2"
+            android:layout_marginBottom="16dp"
+            android:text="@string/submit"
+            android:textStyle="bold"
+            android:layout_below="@id/rl_tanggal"/>
+    </RelativeLayout>
+
+</ScrollView>
